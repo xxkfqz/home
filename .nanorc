@@ -1,0 +1,12 @@
+set autoindent
+set smooth
+set softwrap
+set tabsize 8
+#set tabstospaces
+set linenumbers
+set nohelp
+set constantshow
+set mouse
+unset backup
+set morespace
+#set boldtext

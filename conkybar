@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo '{"version":1}[[],'
+
+exec conky -c $HOME/.conkyrc_color
